@@ -3,6 +3,9 @@
     the Student and Instructor PrettyTables
 """
 
+class Major:
+    pass
+
 class Student:
     pass
 
