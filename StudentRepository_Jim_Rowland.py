@@ -13,4 +13,5 @@ class Instructor:
     pass
 
 class Repository:
+    # include new prettytable from SQLite
     pass
